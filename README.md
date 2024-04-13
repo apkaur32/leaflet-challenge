@@ -26,3 +26,5 @@ Hint: The depth of the earth can be found as the third coordinate for each earth
 - Create a legend that will provide context for your map data.
 
 This task was completed with the help of class assignments, Leaflet documentation, StackOverflow, as noted throughout the code. 
+
+![2-BasicMap](https://github.com/apkaur32/leaflet-challenge/assets/150749167/71f001b9-612e-46d2-b923-a94505741443)
